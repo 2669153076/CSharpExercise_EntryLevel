@@ -1,0 +1,7 @@
+E:\Program\C#\Lesson1_控制台相关\Lesson2_练习\bin\Debug\Lesson2_练习.exe.config
+E:\Program\C#\Lesson1_控制台相关\Lesson2_练习\bin\Debug\Lesson2_练习.exe
+E:\Program\C#\Lesson1_控制台相关\Lesson2_练习\bin\Debug\Lesson2_练习.pdb
+E:\Program\C#\Lesson1_控制台相关\Lesson2_练习\obj\Debug\Lesson2_练习.csproj.AssemblyReference.cache
+E:\Program\C#\Lesson1_控制台相关\Lesson2_练习\obj\Debug\Lesson2_练习.csproj.CoreCompileInputs.cache
+E:\Program\C#\Lesson1_控制台相关\Lesson2_练习\obj\Debug\Lesson2_练习.exe
+E:\Program\C#\Lesson1_控制台相关\Lesson2_练习\obj\Debug\Lesson2_练习.pdb

@@ -1,0 +1,7 @@
+E:\Program\C#\Lesson1_控制台相关\Lesson2_随机数\bin\Debug\Lesson2_随机数.exe.config
+E:\Program\C#\Lesson1_控制台相关\Lesson2_随机数\bin\Debug\Lesson2_随机数.exe
+E:\Program\C#\Lesson1_控制台相关\Lesson2_随机数\bin\Debug\Lesson2_随机数.pdb
+E:\Program\C#\Lesson1_控制台相关\Lesson2_随机数\obj\Debug\Lesson2_随机数.csproj.AssemblyReference.cache
+E:\Program\C#\Lesson1_控制台相关\Lesson2_随机数\obj\Debug\Lesson2_随机数.csproj.CoreCompileInputs.cache
+E:\Program\C#\Lesson1_控制台相关\Lesson2_随机数\obj\Debug\Lesson2_随机数.exe
+E:\Program\C#\Lesson1_控制台相关\Lesson2_随机数\obj\Debug\Lesson2_随机数.pdb
